@@ -1,0 +1,56 @@
+<resources xmlns:tools="http://schemas.android.com/tools"
+           tools:locale="en"
+           tools:ignore="MissingTranslation">
+
+    <!--Name of app on Android device home screen-->
+    <string name="app_name">NWNative</string>
+
+    <string name="title_product_detail">Product Detail</string>
+        <string name="action_settings">Settings</string>
+
+    <!--Must be the same as the App ID in HCPms cockpit-->
+    <string name="HCPMS_APP_ID">com.northwind.native</string>
+
+    <!--Strings for development convenience-->
+    <string name="SERVER_URL">hcpms-s123456trial.hanatrial.ondemand.com</string>
+    <string name="USERNAME">s123456</string>
+    <string name="PORT">443</string>
+    <string name="SETSECURE">True</string>
+
+    <string name="open_listener_not_called_timeout">Open listener was not called within 30 seconds.</string>
+    <string name="open_listener_not_in_finished_state">Open listener is not in finished state after having completed successfully</string>
+    <string name="open_listener_interrupted">Open listener waiting for results was interrupted.</string>
+    <string name="error_msg_ProductListFragment_onAttach">Activity must implement fragment\'s callbacks.</string>
+
+
+    <!-- MAFLogon related -->
+    <string name="ui_initappdata">Fetching products…</string>
+    <string name="ui_init_callbackerror">Logon failed. isUserLoggedOn: %1$s, errorMessage: %1$s</string>
+
+    <!--Strings for Product Detail Fragment-->
+    <string name="ui_detail_product_name">Product Name:</string>
+    <string name="ui_detail_unit_price">Unit Price:</string>
+    <string name="ui_detail_hint_unit_price">Product ID</string>
+    <string name="ui_detail_qty_per_unit">Quantity Per Unit:</string>
+    <string name="ui_detail_hint_qty_per_unit">Quantity Per Unit</string>
+    <string name="ui_detail_units_in_stock">Units In Stock:</string>
+    <string name="ui_detail_hint_units_in_stock">units in stock</string>
+    <string name="ui_detail_units_on_order">Units On Order:</string>
+    <string name="ui_detail_hint_units_on_order">units on order</string>
+    <string name="ui_detail_reorder_level">Reorder level:</string>
+    <string name="ui_detail_hint_reorder_level">reorder</string>
+    <string name="ui_detail_product_id">Product ID:</string>
+    <string name="ui_detail_hint_product_id">Product ID</string>
+    <string name="ui_detail_supplier_id">Supplier ID:</string>
+    <string name="ui_detail_hint_supplier_id">Supplier ID</string>
+    <string name="ui_detail_category_id">Category ID:</string>
+    <string name="ui_detail_hint_category_id">Category ID</string>
+    <string name="ui_detail_discontinued">Discontinued:</string>
+    <string name="ui_detail_hint_discontinued">Discontinued</string>
+
+    <!--Strings for ProductDataSingleton-->
+    <string name="unable_to_open_store">Unable to open OData Online Store</string>
+    <string name="online_odata_store_exception">getProducts: caught OnlineODataStoreException</string>
+
+
+</resources>
