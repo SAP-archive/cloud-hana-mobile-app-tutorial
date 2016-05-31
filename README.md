@@ -34,7 +34,7 @@ Once the pre-requisites are complete, the steps to create the app in Development
 If you are interested in hybrid implementations of the same application, you can view those tutorials at the links below:
 
  - **Web app** ([Mobile Group 1-3)](http://go.sap.com/developer/tutorial-navigator/developer-tutorials.beginner.html) – *using SAPUI5, SAP Web IDE*
- - **Hybrid app [Mobile Group 5](http://go.sap.com/developer/tutorial-navigator/developer-tutorials.intermediate.html)** – *using HCPdo, SAPUI5, SAP Web IDE, Hybrid App Toolkit, Apache Cordova and the Kapsel SDK*
+ - **Hybrid app ([Mobile Group 5)](http://go.sap.com/developer/tutorial-navigator/developer-tutorials.intermediate.html)** – *using HCPdo, SAPUI5, SAP Web IDE, Hybrid App Toolkit, Apache Cordova and the Kapsel SDK*
 
 Abbreviations
 
